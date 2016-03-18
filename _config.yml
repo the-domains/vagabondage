@@ -1,0 +1,28 @@
+name: vagabondage
+favicon: null
+layout_spectrum: 0.21981532266363502
+typography_spectrum: 0.1642362002748996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13362966291606426
+  lightness: 0.2357153813354671
+  saturation: 0.7531086204107851
+  rhythmicContrast: 0.41337891574949026
+purpose: []
